@@ -1,6 +1,6 @@
 # L-SpEx: Localized Target Speaker Extraction
 
-The data configuration and simulation of L-SpEx. The code scripts will be released in the future.
+The data configuration and simulation of [L-SpEx](https://arxiv.org/abs/2202.09995). The code scripts will be released in the future.
 
 ## Data Generation:
 
