@@ -15,6 +15,7 @@ python run_sample_reverb_libri.py
 ```bash
 ./generate_librimix.sh YOUR_SAVE_PATH
 ```
+NOTE: you can also download the generated MC-Libri2Mix dataset by using this dropbox link ([Download](https://www.dropbox.com/sh/ifz9w86v2i7zga1/AAArwDWFTtrL6f6wK9dReDm2a?dl=0))
 
 ## Environments:
 
